@@ -1,0 +1,20 @@
+.padre {
+    border: 1px navy solid;
+    height: 400px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction:column ;
+}
+
+.hijo{
+    border: 1px rgb(43, 183, 226) solid;
+    height: 30%;
+    width: 40%;
+}
+
+.hija{
+    border: 1px rgb(226, 43, 171) solid;
+    height: 30%;
+    width: 40%;
+}

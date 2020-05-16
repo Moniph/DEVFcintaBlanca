@@ -1,0 +1,60 @@
+*{
+    background-color: white;
+}
+
+.nav{
+    border: 1px blue    solid;
+    padding: 0px 10px 0px 1074px;
+}
+
+.n1{
+    text-decoration: none;
+}
+
+.n2 {
+    width: 30px;
+}
+
+.n22 {
+    width: 30px;
+    border-radius: 50%;
+
+}
+
+.contenedor{
+    border: 1px rgb(128, 0, 107)   solid;
+    margin: 40px;
+    padding-bottom: 80px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.botonesabajo{
+    border-color: magenta;
+    margin: 10px;
+}
+
+.abajo{
+    text-align: center;
+    height: 56px;
+}
+
+.buscar{
+    border: 1px green   solid;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.search{
+    border-radius: 50px;
+    width: 550px;
+    height: 40px;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+}
+img{
+    border: 1px red   solid;
+    width: 450px;
+
+}

@@ -1,0 +1,39 @@
+/* Selector */
+*{
+background-color: #f8e3e3;
+}
+h1{
+    color: rgb(85, 76, 80);
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+p{
+    color: gray;
+    text-align: left;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(212, 38, 105);
+}
+
+img {
+    width: 400px;
+    align-items: center;   
+}
+
+.l1{
+    color: gray;
+}
+
+span{
+    color: hotpink;
+}
+
+.my-icon{
+    font-size: 100px;
+}
